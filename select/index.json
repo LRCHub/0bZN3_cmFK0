@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ADHD",
+  "base_artist": "kZm",
+  "createdAt": "2025-12-22T06:56:51.106733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Adhd",
+      "artist": "Blood Red Shoes",
+      "has_synced": true,
+      "path": "select/01_Adhd_Blood_Red_Shoes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "The Big Moon",
+      "has_synced": true,
+      "path": "select/02_ADHD_The_Big_Moon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "Two Feet",
+      "has_synced": true,
+      "path": "select/03_ADHD_Two_Feet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "Two Feet",
+      "has_synced": false,
+      "path": "select/04_ADHD_Two_Feet.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "BAZOOKA",
+      "has_synced": false,
+      "path": "select/05_ADHD_BAZOOKA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "Joyner Lucas",
+      "has_synced": true,
+      "path": "select/06_ADHD_Joyner_Lucas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ADHD Freestyle",
+      "artist": "Ege Çubukçu",
+      "has_synced": false,
+      "path": "select/07_ADHD_Freestyle_Ege_Çubukçu.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ADHD Anthem (2 Many Emotions)",
+      "artist": "Rae Sremmurd",
+      "has_synced": true,
+      "path": "select/08_ADHD_Anthem_(2_Many_Emotions)_Rae_Sremmurd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Adhd",
+      "artist": "Truslow",
+      "has_synced": true,
+      "path": "select/09_Adhd_Truslow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "adhd",
+      "artist": "slowthai",
+      "has_synced": false,
+      "path": "select/10_adhd_slowthai.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "Homixide Gang",
+      "has_synced": true,
+      "path": "select/11_ADHD_Homixide_Gang.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "Sleepy Hallow",
+      "has_synced": true,
+      "path": "select/12_ADHD_Sleepy_Hallow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ADHD Anthem (Too Many Emotions)",
+      "artist": "Rae Sremmurd",
+      "has_synced": true,
+      "path": "select/13_ADHD_Anthem_(Too_Many_Emotions)_Rae_Sremmurd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Adhd",
+      "artist": "Ballyhoo!",
+      "has_synced": false,
+      "path": "select/14_Adhd_Ballyhoo!.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/15_ADHD_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "Mae Stephens",
+      "has_synced": false,
+      "path": "select/16_ADHD_Mae_Stephens.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ADHD",
+      "artist": "Lancey Foux",
+      "has_synced": false,
+      "path": "select/17_ADHD_Lancey_Foux.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ADHD Freestyle Remix",
+      "artist": "Sad Frosty feat. Rich The Kid",
+      "has_synced": false,
+      "path": "select/18_ADHD_Freestyle_Remix_Sad_Frosty_feat._Rich_The_Kid.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ADHD (feat. Benjazzy)",
+      "artist": "kZm",
+      "has_synced": false,
+      "path": "select/pl_01_ADHD_(feat._Benjazzy)_kZm.txt"
+    }
+  ]
+}
